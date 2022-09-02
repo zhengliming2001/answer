@@ -1,24 +1,22 @@
-# vue_test
+# 项目简介
 
-## Project setup
+## Vue 入门项目
+
+## 使用 Vue2+Vuex(少)+Vue-router(少)
+
+## 简介
+
+- 一个简单的答题项目,没有涉及数据请求
+- 适合刚学完 vue 入手联系
+
+## 安装依赖
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 运行
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
